@@ -21,7 +21,7 @@ Features
 
 Installation
   Clone the repository:
-    git clone https://github.com/yourusername/currency-converter.git
+    git clone https://github.com/Abhilash-T-R/real-time-currency-converter.git
 
   Navigate to the project directory:
     cd currency-converter
