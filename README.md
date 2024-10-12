@@ -5,13 +5,13 @@ Currency Converter
 A real-time currency converter application built with JavaScript and Express that allows users to convert amounts between different currencies using live exchange rates from a reliable API.
 
 Table of Contents
-  Features
-  Installation
-  Usage
-  Technologies Used
-  API Used
-  Contributing
-  License
+  1.Features
+  2. Installation
+  3. Usage
+  4. Technologies Used
+  5. API Used
+  6. Contributing
+  7. License
 
 Features
   Convert between multiple currencies.
