@@ -13,13 +13,13 @@ Table of Contents
   6. Contributing
   7. License
 
-Features
+Features -
   Convert between multiple currencies.
   Fetches real-time exchange rates from a currency conversion API.
   Simple and intuitive user interface.
   Error handling for invalid input and unsupported currencies.
 
-Installation
+Installation -
   Clone the repository:
     git clone https://github.com/Abhilash-T-R/real-time-currency-converter.git
 
@@ -32,30 +32,30 @@ Installation
   Access the appllication:
     http://localhost:3000
 
-Usage
+Usage -
 Open the application in your browser.
 Enter the amount you wish to convert.
 Select the currencies for conversion (from and to).
 The application will display the converted amount using real-time exchange rates.
 
-Technologies Used
+Technologies Used - 
 Backend: Node.js with Express.js
 Frontend: HTML, CSS, JavaScript
 API: Open Exchange Rates or similar currency conversion API
 
-API Used
+API Used - 
 The application fetches live exchange rates from the following API:
 
 Open Exchange Rates or another currency conversion API of your choice.
 
-Contributing
+Contributing - 
 Contributions are welcome! If you'd like to improve the project, feel free to open a pull request or submit an issue.
 
-Fork the repository
+Fork the repository - 
 Create a new branch (git checkout -b feature/YourFeature)
 Commit your changes (git commit -m 'Add some feature')
 Push to the branch (git push origin feature/YourFeature)
 Open a Pull Request
 
-License
+License - 
 This project is licensed under the MIT License. See the LICENSE file for details.
