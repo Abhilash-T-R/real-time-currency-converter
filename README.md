@@ -4,6 +4,9 @@ Real-time currency conversion tool built with live exchange rates API.
 Currency Converter
 A real-time currency converter application built with JavaScript and Express that allows users to convert amounts between different currencies using live exchange rates from a reliable API.
 
+#Screenshot
+![image-alt](https://github.com/Abhilash-T-R/real-time-currency-converter/blob/9f4e6d088aded0becc1d700082563bcde8013161/2024-11-05%2000_08_24-Currency%20converter.png)
+
 Table of Contents
   1.Features
   2. Installation
